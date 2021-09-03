@@ -1,7 +1,4 @@
-pipelineJob('demo-three') {
-  definition {   //Adds a workflow definition
-    cps {
-      script('''
+
        pipeline {
             agent any
                 stages {
@@ -17,7 +14,4 @@ pipelineJob('demo-three') {
                     }
                 }
             }
-          ''')
-         }
-      }
- }
+    
