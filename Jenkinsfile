@@ -18,8 +18,6 @@ pipelineJob('demo-two') {
                 }
             }
           ''')
-        
-      
-    }
-  }
-}
+         }
+      }
+ }
