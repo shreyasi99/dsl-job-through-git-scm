@@ -22,3 +22,4 @@ pipelineJob('demo-two') {
       
     }
   }
+}
