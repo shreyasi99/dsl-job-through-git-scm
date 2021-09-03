@@ -1,4 +1,4 @@
-pipelineJob('demo-two') {
+pipelineJob('demo-three') {
   definition {   //Adds a workflow definition
     cps {
       script('''
